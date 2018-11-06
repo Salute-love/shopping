@@ -1,0 +1,22 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+body .my-header {
+  background-color: skyblue;
+}
+body .my-header h1 {
+  color: #fff;
+}
+body .my-header .mui-icon-search {
+  color: #fff;
+}
+body .footer {
+  background-color: skyblue;
+}
+body .footer .mui-tab-item {
+  color: #fff;
+}
+body .footer .mui-tab-item.mui-active {
+  color: darkorange;
+}
